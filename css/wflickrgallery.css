@@ -1,0 +1,28 @@
+/* FLICKR PHOTOSTREAM EXTRAS */
+#widgetwflickrgallery {
+	text-align:center;
+}
+
+#wflickrgallery {
+	border: 1px solid black;
+	overflow: hidden;
+	height: auto;
+	margin-bottom: 5px;
+	margin-right: auto;
+	margin-left: auto;
+	clear: both;
+}
+				
+.imgholder {
+	overflow:		hidden;
+	height:			auto;
+	border-bottom:	1px solid white;
+	background:		black;
+	text-align: 	center;
+}
+				
+.imgholder a, .imghover a:hover, .imghover a:hover img, .imgholder a img {
+	border:0;
+	margin:0;
+	padding:0;
+}
